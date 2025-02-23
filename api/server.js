@@ -68,6 +68,13 @@ server.use(
 // Use the router for handling database routes
 server.use(router);
 
+// // Watch db.json for changes and reload
+// fs.watch(filePath, () => {
+//   console.log("Database file changed. Reloading...");
+//   const newData = fs.readFileSync(filePath, "utf-8");
+//   router.db.assign(JSON.parse(newData)); // Update database dynamically
+// });
+
 // Start the server
 server.listen(3000, () => {
   console.log("JSON Server with Auth is running");

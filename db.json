@@ -2,968 +2,1234 @@
   "users": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "test@example.com",
+      "lastName": "one",
+      "firstName": "user",
+      "email": "user1@gmail.com",
+      "avatar": "./data/users/user-avatar-1.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "title": "men",
-      "prefix": "men",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
     },
     {
       "id": 2,
-      "title": "women",
-      "prefix": "women",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+      "lastName": "two",
+      "firstName": "user",
+      "email": "user2@gmail.com",
+      "avatar": "./data/users/user-avatar-2.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 3,
-      "title": "kids",
-      "prefix": "kids",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+      "lastName": "three",
+      "firstName": "user",
+      "email": "user3@gmail.com",
+      "avatar": "./data/users/user-avatar-3.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 4,
-      "title": "baby",
-      "prefix": "baby",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+      "lastName": "four",
+      "firstName": "user",
+      "email": "user4@gmail.com",
+      "avatar": "./data/users/user-avatar-4.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 5,
-      "title": "sport",
-      "prefix": "sport",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+      "lastName": "five",
+      "firstName": "user",
+      "email": "user5@gmail.com",
+      "avatar": "./data/users/user-avatar-1.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 6,
-      "title": "home",
-      "prefix": "home",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/2a4e07c8389db__h_m-w11-21032022-9267-1x1.jpg"
+      "lastName": "six",
+      "firstName": "user",
+      "email": "user6@gmail.com",
+      "avatar": "./data/users/user-avatar-2.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 7,
-      "title": "accessories",
-      "prefix": "accessories",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/3d01b59f32092__h_m-w32-08082022-7235-1x1.jpg"
+      "lastName": "seven",
+      "firstName": "user",
+      "email": "user7@gmail.com",
+      "avatar": "./data/users/user-avatar-3.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 8,
-      "title": "beauty",
-      "prefix": "beauty",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/12345abc1234__h_m-w20-09052022-4444-1x1.jpg"
+      "lastName": "eight",
+      "firstName": "user",
+      "email": "user8@gmail.com",
+      "avatar": "./data/users/user-avatar-4.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 9,
-      "title": "electronics",
-      "prefix": "electronics",
-      "img": "https://example.com/electronics-category.jpg"
+      "lastName": "nine",
+      "firstName": "user",
+      "email": "user9@gmail.com",
+      "avatar": "./data/users/user-avatar-1.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 10,
-      "title": "furniture",
-      "prefix": "furniture",
-      "img": "https://example.com/furniture-category.jpg"
+      "lastName": "ten",
+      "firstName": "user",
+      "email": "user10@gmail.com",
+      "avatar": "./data/users/user-avatar-2.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 11,
-      "title": "outdoors",
-      "prefix": "outdoors",
-      "img": "https://example.com/outdoors-category.jpg"
+      "lastName": "eleven",
+      "firstName": "user",
+      "email": "user11@gmail.com",
+      "avatar": "./data/users/user-avatar-3.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 12,
-      "title": "toys",
-      "prefix": "toys",
-      "img": "https://example.com/toys-category.jpg"
+      "lastName": "twelve",
+      "firstName": "user",
+      "email": "user12@gmail.com",
+      "avatar": "./data/users/user-avatar-4.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 13,
-      "title": "books",
-      "prefix": "books",
-      "img": "https://example.com/books-category.jpg"
+      "lastName": "thirteen",
+      "firstName": "user",
+      "email": "user13@gmail.com",
+      "avatar": "./data/users/user-avatar-1.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
       "id": 14,
-      "title": "groceries",
-      "prefix": "groceries",
-      "img": "https://example.com/groceries-category.jpg"
+      "lastName": "fourteen",
+      "firstName": "user",
+      "email": "user14@gmail.com",
+      "avatar": "./data/users/user-avatar-2.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
+    },
+    {
+      "id": 15,
+      "lastName": "fifteen",
+      "firstName": "user",
+      "email": "user15@gmail.com",
+      "avatar": "./data/users/user-avatar-3.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
+    },
+    {
+      "id": 16,
+      "lastName": "sixteen",
+      "firstName": "user",
+      "email": "user16@gmail.com",
+      "avatar": "./data/users/user-avatar-4.png",
+      "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     }
   ],
   "products": [
     {
       "id": 1,
-      "title": "Jersey top",
-      "price": 249,
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "sellerId": 1,
+      "title": "LG 7 Kg, 5 Star, Direct Drive Technology, Steam Wash, 6 Motion DD, Smart Diagnosis, Fully-Automatic Front Load",
+      "price": 203.14,
+      "rating": {
+        "rate": 4.3,
+        "count": 107,
+        "stars": { "5": 60, "4": 30, "3": 10, "2": 5, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-1.png",
+        "./data/products/product-img-2.png",
+        "./data/products/product-img-3.jpg"
+      ],
+      "img": "./data/products/product-img-1.png",
+      "description": "Feature: square neck, cutout, puff sleeve, ruffle hem, tie back aline dress \n Fabric has some stretch,and it's soft and comfortable \n Suitable for daily wear, holidays, dating, vacation, weekend casual \n Care Instructions: Machine wash or professional dry clean"
     },
     {
       "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": 229,
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "sellerId": 2,
+      "title": "Samsung 8 Kg, 5 Star, Inverter Fully-Automatic Front Load Washing Machine",
+      "price": 249.99,
+      "rating": {
+        "rate": 4.5,
+        "count": 150,
+        "stars": { "5": 90, "4": 40, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-4.png",
+        "./data/products/product-img-5.webp",
+        "./data/products/product-img-6.jpg"
+      ],
+      "img": "./data/products/product-img-4.png",
+      "description": "Smart inverter motor, low noise operation, eco bubble technology for better cleaning. \n Suitable for family use, durable, and energy efficient. \n Care Instructions: Wipe clean with a damp cloth."
     },
     {
       "id": 3,
-      "title": "Cotton polo shirt",
-      "price": 200,
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
-      "max": 3
+      "sellerId": 3,
+      "title": "Apple iPhone 14 Pro Max (256GB, Space Black) - 5G",
+      "price": 1099.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 320,
+        "stars": { "5": 280, "4": 30, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-7.jpg",
+        "./data/products/product-img-8.jpeg",
+        "./data/products/product-img-9.jpeg"
+      ],
+      "img": "./data/products/product-img-9.jpeg",
+      "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP main camera, 5G capability. \n Ceramic Shield, tougher than any smartphone glass. \n Care Instructions: Keep away from water and extreme temperatures."
     },
     {
       "id": 4,
-      "title": "Cotton t-shirt",
-      "price": 100,
-      "cat_prefix": "women",
-      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
-      "max": 2
+      "sellerId": 4,
+      "title": "Sony Bravia 55 Inch 4K Ultra HD Smart LED TV",
+      "price": 649.99,
+      "rating": {
+        "rate": 4.6,
+        "count": 200,
+        "stars": { "5": 140, "4": 40, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-10.webp",
+        "./data/products/product-img-11.jpg"
+      ],
+      "img": "./data/products/product-img-10.webp",
+      "description": "4K HDR Processor X1, TRILUMINOS Display, Android TV with Google Assistant. \n Amazing picture clarity and immersive sound experience. \n Care Instructions: Clean screen with a microfiber cloth."
     },
     {
       "id": 5,
-      "title": "Sweatshirt shorts",
-      "price": 300,
-      "cat_prefix": "women",
-      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-      "max": 3
+      "sellerId": 5,
+      "title": "Nike Air Zoom Pegasus 39 Running Shoes",
+      "price": 129.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 180,
+        "stars": { "5": 130, "4": 35, "3": 10, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-13.jpeg",
+        "./data/products/product-img-14.webp",
+        "./data/products/product-img-15.webp"
+      ],
+      "img": "./data/products/product-img-15.webp",
+      "description": "Lightweight and breathable mesh upper, responsive cushioning, durable rubber outsole. \n Perfect for long runs, gym, and casual wear. \n Care Instructions: Hand wash with mild soap and air dry."
     },
     {
       "id": 6,
-      "title": "Velour top",
-      "price": 300,
-      "cat_prefix": "kids",
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "max": 2
+      "sellerId": 2,
+      "title": "Dell XPS 15 9520 Laptop, 12th Gen Intel i7, 16GB RAM, 512GB SSD",
+      "price": 1399.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 250,
+        "stars": { "5": 180, "4": 50, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-16.jpeg",
+        "./data/products/product-img-17.jpg",
+        "./data/products/product-img-18.jpeg"
+      ],
+      "img": "./data/products/product-img-16.jpeg",
+      "description": "12th Gen Intel Core i7 processor, NVIDIA RTX 3050, 16-inch 4K OLED display. \n Perfect for content creators and professionals. \n Care Instructions: Keep in a cool, dry place and avoid liquid spills."
     },
     {
       "id": 7,
-      "title": "Hooded towel",
-      "price": 180,
-      "cat_prefix": "kids",
-      "img": "https://eg.hm.com/assets/styles/HNM/12345343/3e4d3ee789c31ff35d2eb2446e56c7c2e53bf7c6/2/image-thumb__1345678__product_listing/8df945720e53154d5bbde96eac58f167f4ce7e54.jpg",
-      "max": 5
+      "sellerId": 3,
+      "title": "Apple Watch Series 8 GPS, 45mm Midnight Aluminum Case with Midnight Sport Band",
+      "price": 399.99,
+      "rating": {
+        "rate": 4.6,
+        "count": 180,
+        "stars": { "5": 120, "4": 40, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-19.webp",
+        "./data/products/product-img-20.avif"
+      ],
+      "img": "./data/products/product-img-20.avif",
+      "description": "Advanced health monitoring, Always-on Retina display, fast charging. \n Stay connected with messages, calls, and notifications. \n Care Instructions: Avoid exposure to extreme heat and water."
     },
     {
       "id": 8,
-      "title": "Cotton Bed Set",
-      "price": 750,
-      "cat_prefix": "home",
-      "img": "https://eg.hm.com/assets/styles/HNM/12355678/3e6f356f79c56d4754c7a9856e12c36c789c78a1/2/image-thumb__1875324__product_listing/56f7bc3428e3c4a5128df345d7626d978c96c345.jpg",
-      "max": 3
+      "sellerId": 4,
+      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+      "price": 349.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 300,
+        "stars": { "5": 250, "4": 30, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-22.jpeg",
+        "./data/products/product-img-23.jpg",
+        "./data/products/product-img-24.jpg"
+      ],
+      "img": "./data/products/product-img-22.jpeg",
+      "description": "Industry-leading noise cancellation, up to 30 hours of battery life, multipoint connectivity. \n Perfect for travel, work, and everyday use. \n Care Instructions: Store in the provided case when not in use."
     },
     {
       "id": 9,
-      "title": "Pile all-in-one suit with ears",
-      "price": 500,
-      "cat_prefix": "baby",
-      "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
-      "max": 2
+      "sellerId": 5,
+      "title": "Samsung 65 Inch QLED 4K Smart TV with Quantum HDR",
+      "price": 999.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 220,
+        "stars": { "5": 160, "4": 40, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-25.jpg",
+        "./data/products/product-img-26.jpg"
+      ],
+      "img": "./data/products/product-img-25.jpg",
+      "description": "Quantum Dot Technology for true colors, AI-powered 4K upscaling, Smart TV features. \n Enjoy high-quality visuals and immersive sound. \n Care Instructions: Wipe screen with a dry microfiber cloth."
     },
     {
       "id": 10,
-      "title": "Gold Hoop Earrings",
-      "price": 80,
-      "cat_prefix": "accessories",
-      "img": "https://eg.hm.com/assets/styles/HNM/10849585/c7646d12563f78b8126c122344c6715f4dfe5a0d/2/image-thumb__1587323__product_listing/5643c71e527834cd45322c1187123ad456f89274.jpg",
-      "max": 10
+      "sellerId": 1,
+      "title": "Adidas Ultraboost 22 Running Shoes",
+      "price": 159.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 280,
+        "stars": { "5": 200, "4": 50, "3": 20, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-28.avif",
+        "./data/products/product-img-29.avif",
+        "./data/products/product-img-30.jpeg"
+      ],
+      "img": "./data/products/product-img-30.jpeg",
+      "description": "Boost cushioning for ultimate comfort, Primeknit upper, lightweight design. \n Ideal for running, gym workouts, and daily activities. \n Care Instructions: Hand wash with mild detergent and air dry."
     },
     {
       "id": 11,
-      "title": "Face Cream",
-      "price": 200,
-      "cat_prefix": "beauty",
-      "img": "https://eg.hm.com/assets/styles/HNM/10987312/b45f7bc125a687123fd2344c7767c1f43fbc25e7/2/image-thumb__1746935__product_listing/f63b4a235bb7c45e9a7f45679c12f567cd893fa5.jpg",
-      "max": 5
+      "sellerId": 2,
+      "title": "Apple MacBook Air M2, 13-inch, 8GB RAM, 256GB SSD",
+      "price": 1099.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 340,
+        "stars": { "5": 290, "4": 40, "3": 7, "2": 2, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-31.jpg",
+        "./data/products/product-img-32.jpg",
+        "./data/products/product-img-33.jpg"
+      ],
+      "img": "./data/products/product-img-32.jpg",
+      "description": "M2 chip with 8-core CPU and 8-core GPU, 13.6-inch Liquid Retina display, all-day battery life. \n Ideal for students, professionals, and creatives."
     },
     {
       "id": 12,
-      "title": "Wireless Headphones",
-      "price": 1999,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/headphones.jpg",
-      "max": 5
+      "sellerId": 3,
+      "title": "Samsung Galaxy S23 Ultra 5G, 256GB, Phantom Black",
+      "price": 1199.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 500,
+        "stars": { "5": 420, "4": 60, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-34.jpg",
+        "./data/products/product-img-35.jpg",
+        "./data/products/product-img-36.png"
+      ],
+      "img": "./data/products/product-img-36.png",
+      "description": "200MP camera, Snapdragon 8 Gen 2, S Pen included, Dynamic AMOLED 2X display. \n The best Android flagship smartphone."
     },
     {
       "id": 13,
-      "title": "Gaming Laptop",
-      "price": 45000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/gaming-laptop.jpg",
-      "max": 2
+      "sellerId": 4,
+      "title": "Bose QuietComfort 45 Wireless Noise Cancelling Headphones",
+      "price": 329.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 420,
+        "stars": { "5": 350, "4": 50, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-37.jpeg",
+        "./data/products/product-img-38.jpeg",
+        "./data/products/product-img-39.jpeg"
+      ],
+      "img": "./data/products/product-img-39.jpeg",
+      "description": "Legendary noise cancellation, 24-hour battery life, lightweight comfort. \n Ideal for travelers, remote workers, and audiophiles."
     },
     {
       "id": 14,
-      "title": "Wooden Dining Table",
-      "price": 12000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/dining-table.jpg",
-      "max": 1
+      "sellerId": 5,
+      "title": "Sony PlayStation 5 Console – Disc Edition",
+      "price": 499.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 800,
+        "stars": { "5": 720, "4": 60, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-40.jpg",
+        "./data/products/product-img-41.webp",
+        "./data/products/product-img-42.jpeg"
+      ],
+      "img": "./data/products/product-img-41.webp",
+      "description": "Ultra-fast SSD, ray tracing, 4K gaming at 120Hz, DualSense controller. \n The next-generation gaming experience."
     },
     {
       "id": 15,
-      "title": "Cozy Armchair",
-      "price": 8000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/armchair.jpg",
-      "max": 3
+      "sellerId": 1,
+      "title": "GoPro HERO11 Black Action Camera",
+      "price": 399.99,
+      "rating": {
+        "rate": 4.6,
+        "count": 300,
+        "stars": { "5": 220, "4": 50, "3": 20, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-43.jpg",
+        "./data/products/product-img-44.jpeg",
+        "./data/products/product-img-45.avif"
+      ],
+      "img": "./data/products/product-img-43.jpg",
+      "description": "5.3K60 video, HyperSmooth stabilization, waterproof up to 10m. \n Perfect for adventure seekers and vloggers."
     },
     {
       "id": 16,
-      "title": "Camping Tent",
-      "price": 5000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/camping-tent.jpg",
-      "max": 4
+      "sellerId": 3,
+      "title": "Samsung 55-inch 4K QLED Smart TV",
+      "price": 699.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 200,
+        "stars": { "5": 150, "4": 35, "3": 10, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-25.jpg",
+        "./data/products/product-img-26.jpg"
+      ],
+      "img": "./data/products/product-img-25.jpg",
+      "description": "Quantum HDR, 120Hz refresh rate, built-in Alexa and Google Assistant. \n Best for immersive home entertainment."
     },
     {
       "id": 17,
-      "title": "Hiking Backpack",
-      "price": 1500,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/hiking-backpack.jpg",
-      "max": 7
+      "sellerId": 2,
+      "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
+      "price": 749.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 180,
+        "stars": { "5": 130, "4": 40, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-49.jpeg",
+        "./data/products/product-img-50.png"
+      ],
+      "img": "./data/products/product-img-50.png",
+      "description": "Laser dust detection, high torque cleaner head, up to 60 minutes runtime. \n Ideal for deep home cleaning."
     },
     {
       "id": 18,
-      "title": "Action Figure Set",
-      "price": 1200,
-      "cat_prefix": "toys",
-      "img": "https://example.com/action-figures.jpg",
-      "max": 10
+      "sellerId": 4,
+      "title": "Garmin Fenix 7X Solar Smartwatch",
+      "price": 899.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 250,
+        "stars": { "5": 210, "4": 30, "3": 7, "2": 2, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-19.webp",
+        "./data/products/product-img-20.avif"
+      ],
+      "img": "./data/products/product-img-20.avif",
+      "description": "Solar-powered, GPS, heart rate monitoring, music storage. \n Designed for athletes and adventurers."
     },
     {
       "id": 19,
-      "title": "Building Blocks",
-      "price": 800,
-      "cat_prefix": "toys",
-      "img": "https://example.com/building-blocks.jpg",
-      "max": 15
+      "sellerId": 5,
+      "title": "Apple iPad Air (5th Gen) - 10.9-inch, 64GB, Wi-Fi",
+      "price": 599.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 350,
+        "stars": { "5": 290, "4": 50, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-55.jpeg",
+        "./data/products/product-img-56.jpg",
+        "./data/products/product-img-57.jpg"
+      ],
+      "img": "./data/products/product-img-55.jpeg",
+      "description": "M1 chip, Liquid Retina display, Apple Pencil support. \n Perfect for students, professionals, and creatives."
     },
     {
       "id": 20,
-      "title": "Fiction Novel",
-      "price": 500,
-      "cat_prefix": "books",
-      "img": "https://example.com/fiction-novel.jpg",
-      "max": 20
+      "sellerId": 1,
+      "title": "Sony Alpha 7 IV Full-Frame Mirrorless Camera",
+      "price": 2499.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 180,
+        "stars": { "5": 150, "4": 25, "3": 3, "2": 1, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-58.avif",
+        "./data/products/product-img-59.webp",
+        "./data/products/product-img-60.webp"
+      ],
+      "img": "./data/products/product-img-60.webp",
+      "description": "33MP sensor, 4K 60p video, real-time Eye AF, professional features. \n Ideal for photographers and videographers."
     },
     {
       "id": 21,
-      "title": "Cooking Recipe Book",
-      "price": 300,
-      "cat_prefix": "books",
-      "img": "https://example.com/recipe-book.jpg",
-      "max": 10
+      "sellerId": 2,
+      "title": "DJI Mini 3 Pro Drone with Remote Controller",
+      "price": 999.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 220,
+        "stars": { "5": 180, "4": 30, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-61.jpg",
+        "./data/products/product-img-62.jpg",
+        "./data/products/product-img-63.jpg"
+      ],
+      "img": "./data/products/product-img-61.jpg",
+      "description": "4K HDR video, 34-minute flight time, obstacle sensing, ultra-lightweight. \n Great for travel and aerial photography."
     },
     {
       "id": 22,
-      "title": "Organic Rice - 1kg",
-      "price": 150,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/organic-rice.jpg",
-      "max": 50
+      "sellerId": 3,
+      "title": "Razer BlackWidow V4 Pro Mechanical Gaming Keyboard",
+      "price": 229.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 150,
+        "stars": { "5": 110, "4": 30, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-64.jpg",
+        "./data/products/product-img-65.jpeg"
+      ],
+      "img": "./data/products/product-img-64.jpg",
+      "description": "Razer Green switches, RGB lighting, wrist rest, programmable macros. \n Best for hardcore gamers."
     },
     {
       "id": 23,
-      "title": "Almonds - 500g",
-      "price": 700,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/almonds.jpg",
-      "max": 25
+      "sellerId": 4,
+      "title": "Samsung Galaxy S23 Ultra 5G",
+      "price": 1199.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 320,
+        "stars": { "5": 270, "4": 40, "3": 5, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-34.jpg",
+        "./data/products/product-img-35.jpg",
+        "./data/products/product-img-36.png"
+      ],
+      "img": "./data/products/product-img-35.jpg",
+      "description": "6.8-inch Dynamic AMOLED 2X, 200MP camera, S-Pen, Snapdragon 8 Gen 2. \n The ultimate flagship smartphone."
     },
     {
       "id": 24,
-      "title": "4K Smart TV",
-      "price": 35000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/smart-tv.jpg",
-      "max": 3
+      "sellerId": 5,
+      "title": "Sony PlayStation 5 Console",
+      "price": 499.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 450,
+        "stars": { "5": 390, "4": 40, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-40.jpg",
+        "./data/products/product-img-41.webp",
+        "./data/products/product-img-42.jpeg"
+      ],
+      "img": "./data/products/product-img-42.jpeg",
+      "description": "Ultra-high-speed SSD, ray tracing, 4K gaming at up to 120fps. \n A new era of gaming begins."
     },
     {
       "id": 25,
-      "title": "Bluetooth Speaker",
-      "price": 2500,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/bluetooth-speaker.jpg",
-      "max": 10
+      "sellerId": 2,
+      "title": "Bose QuietComfort 45 Wireless Headphones",
+      "price": 329.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 300,
+        "stars": { "5": 230, "4": 50, "3": 15, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-37.jpeg",
+        "./data/products/product-img-38.jpeg",
+        "./data/products/product-img-39.jpeg"
+      ],
+      "img": "./data/products/product-img-37.jpeg",
+      "description": "Noise cancellation, 24-hour battery life, Bluetooth 5.1, crystal-clear audio. \n Perfect for travel and work."
     },
     {
       "id": 26,
-      "title": "Ergonomic Office Chair",
-      "price": 6000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/office-chair.jpg",
-      "max": 5
+      "sellerId": 3,
+      "title": "Nike Air Zoom Pegasus 39 Running Shoes",
+      "price": 139.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 190,
+        "stars": { "5": 140, "4": 35, "3": 10, "2": 3, "1": 2 }
+      },
+      "images": [
+        "./data/products/product-img-13.jpeg",
+        "./data/products/product-img-14.webp",
+        "./data/products/product-img-15.webp"
+      ],
+      "img": "./data/products/product-img-13.jpeg",
+      "description": "Responsive cushioning, breathable upper, durable outsole. \n Designed for everyday runners."
     },
     {
       "id": 27,
-      "title": "Queen Size Bed Frame",
-      "price": 15000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/bed-frame.jpg",
-      "max": 2
+      "sellerId": 1,
+      "title": "MacBook Pro 16-inch (M2 Max, 32GB RAM, 1TB SSD)",
+      "price": 3499.99,
+      "rating": {
+        "rate": 4.9,
+        "count": 180,
+        "stars": { "5": 160, "4": 15, "3": 3, "2": 1, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-31.jpg",
+        "./data/products/product-img-32.jpg",
+        "./data/products/product-img-33.jpg"
+      ],
+      "img": "./data/products/product-img-31.jpg",
+      "description": "Apple M2 Max chip, Liquid Retina XDR display, 22-hour battery life. \n Built for professionals and creatives."
     },
     {
       "id": 28,
-      "title": "Portable Grill",
-      "price": 3000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/portable-grill.jpg",
-      "max": 6
+      "sellerId": 4,
+      "title": "GoPro HERO11 Black Action Camera",
+      "price": 449.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 250,
+        "stars": { "5": 200, "4": 40, "3": 7, "2": 2, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-43.jpg",
+        "./data/products/product-img-44.jpeg",
+        "./data/products/product-img-45.avif"
+      ],
+      "img": "./data/products/product-img-44.jpeg",
+      "description": "5.3K60 video, 27MP photos, waterproof, HyperSmooth 5.0. \n Best for adventure and vlogging."
     },
     {
       "id": 29,
-      "title": "Fishing Rod Set",
-      "price": 2000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/fishing-rod.jpg",
-      "max": 8
+      "sellerId": 5,
+      "title": "JBL Flip 6 Waterproof Bluetooth Speaker",
+      "price": 129.99,
+      "rating": {
+        "rate": 4.7,
+        "count": 280,
+        "stars": { "5": 210, "4": 50, "3": 10, "2": 5, "1": 5 }
+      },
+      "images": [
+        "./data/products/product-img-85.jpeg",
+        "./data/products/product-img-86.jpeg",
+        "./data/products/product-img-87.jpg"
+      ],
+      "img": "./data/products/product-img-87.jpg",
+      "description": "Powerful sound, 12-hour battery life, IP67 waterproof. \n Great for outdoor music lovers."
     },
     {
       "id": 30,
-      "title": "Board Game - Strategy Edition",
-      "price": 1200,
-      "cat_prefix": "toys",
-      "img": "https://example.com/board-game.jpg",
-      "max": 12
+      "sellerId": 2,
+      "title": "Samsung Galaxy Watch 5 Pro LTE",
+      "price": 499.99,
+      "rating": {
+        "rate": 4.8,
+        "count": 190,
+        "stars": { "5": 150, "4": 30, "3": 7, "2": 2, "1": 1 }
+      },
+      "images": [
+        "./data/products/product-img-88.jpeg",
+        "./data/products/product-img-89.jpg",
+        "./data/products/product-img-90.jpg"
+      ],
+      "img": "./data/products/product-img-90.jpg",
+      "description": "AMOLED display, advanced health tracking, LTE connectivity. \n The ultimate smartwatch for fitness and productivity."
+    }
+  ],
+  "sellers": [
+    {
+      "id": 1,
+      "name": "Monatik LLC",
+      "shipping": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Skyline Traders",
+      "shipping": {
+        "min": 2,
+        "max": 6
+      }
+    },
+    {
+      "id": 3,
+      "name": "Quantum Supplies",
+      "shipping": {
+        "min": 4,
+        "max": 7
+      }
+    },
+    {
+      "id": 4,
+      "name": "Evergreen Enterprises",
+      "shipping": {
+        "min": 1,
+        "max": 4
+      }
+    },
+    {
+      "id": 5,
+      "name": "Zenith Logistics",
+      "shipping": {
+        "min": 5,
+        "max": 10
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 1,
+      "rating": 5,
+      "title": "Excellent Quality",
+      "date": "10 January 2024",
+      "content": "This product exceeded my expectations. The material is premium, and it's very durable. Highly recommend!",
+      "location": "United States",
+      "details": {
+        "size": "M",
+        "color": "Blue"
+      }
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 3,
+      "rating": 4,
+      "title": "Very Good, but slightly expensive",
+      "date": "22 February 2024",
+      "content": "Great product overall, but I wish it was a little more affordable.",
+      "location": "Canada"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "userId": 4,
+      "rating": 5,
+      "title": "Perfect for summer",
+      "date": "15 March 2024",
+      "content": "The fabric is light and breathable, perfect for warm weather. Would buy again!",
+      "location": "United Kingdom"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "userId": 5,
+      "rating": 3,
+      "title": "Decent, but not great",
+      "date": "8 April 2024",
+      "content": "I expected more based on the reviews. It's okay, but I've seen better for the price.",
+      "location": "Australia"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "userId": 2,
+      "rating": 5,
+      "title": "Amazing Purchase",
+      "date": "20 May 2024",
+      "content": "Best thing I have bought this year! Super satisfied!",
+      "location": "United States"
+    },
+    {
+      "id": 6,
+      "productId": 4,
+      "userId": 7,
+      "rating": 2,
+      "title": "Not as described",
+      "date": "1 June 2024",
+      "content": "The product did not match the description. Very disappointed.",
+      "location": "Germany"
+    },
+    {
+      "id": 7,
+      "productId": 5,
+      "userId": 8,
+      "rating": 4,
+      "title": "Very good",
+      "date": "12 July 2024",
+      "content": "Everything is fine except the shipping took longer than expected.",
+      "location": "France"
+    },
+    {
+      "id": 8,
+      "productId": 6,
+      "userId": 9,
+      "rating": 5,
+      "title": "Worth every penny",
+      "date": "24 August 2024",
+      "content": "Highly recommended! Fantastic build quality and design.",
+      "location": "Italy",
+      "details": {
+        "size": "L",
+        "color": "Black"
+      }
+    },
+    {
+      "id": 9,
+      "productId": 7,
+      "userId": 10,
+      "rating": 1,
+      "title": "Terrible experience",
+      "date": "30 September 2024",
+      "content": "Arrived broken, customer service was unhelpful.",
+      "location": "Spain"
+    },
+    {
+      "id": 10,
+      "productId": 8,
+      "userId": 11,
+      "rating": 3,
+      "title": "Okay, but not great",
+      "date": "5 October 2024",
+      "content": "Decent product but not worth the hype.",
+      "location": "Mexico"
+    },
+    {
+      "id": 11,
+      "productId": 10,
+      "userId": 13,
+      "rating": 4,
+      "title": "Stylish and comfortable",
+      "date": "18 November 2024",
+      "content": "Looks great and feels amazing. I will be buying more!",
+      "location": "Japan"
+    },
+    {
+      "id": 12,
+      "productId": 11,
+      "userId": 14,
+      "rating": 5,
+      "title": "Superb product",
+      "date": "22 November 2024",
+      "content": "Absolutely love this! Quality is top-notch.",
+      "location": "South Korea"
+    },
+    {
+      "id": 13,
+      "productId": 12,
+      "userId": 15,
+      "rating": 2,
+      "title": "Not happy",
+      "date": "29 November 2024",
+      "content": "Expected more from this product. Disappointed with the quality.",
+      "location": "United Arab Emirates"
+    },
+    {
+      "id": 14,
+      "productId": 13,
+      "userId": 2,
+      "rating": 4,
+      "title": "Great but expensive",
+      "date": "3 December 2024",
+      "content": "The quality is amazing, but I feel it's a little overpriced.",
+      "location": "United States"
+    },
+    {
+      "id": 15,
+      "productId": 14,
+      "userId": 4,
+      "rating": 5,
+      "title": "Best purchase ever",
+      "date": "6 December 2024",
+      "content": "Absolutely worth every penny. I will buy more.",
+      "location": "Canada"
+    },
+    {
+      "id": 16,
+      "productId": 15,
+      "userId": 6,
+      "rating": 3,
+      "title": "Just okay",
+      "date": "9 December 2024",
+      "content": "I was expecting something better based on reviews. It's decent.",
+      "location": "United Kingdom"
+    },
+    {
+      "id": 17,
+      "productId": 16,
+      "userId": 8,
+      "rating": 5,
+      "title": "Perfect gift",
+      "date": "12 December 2024",
+      "content": "Got this as a gift and my friend loved it!",
+      "location": "France"
+    },
+    {
+      "id": 18,
+      "productId": 17,
+      "userId": 10,
+      "rating": 2,
+      "title": "Not worth it",
+      "date": "15 December 2024",
+      "content": "Broke after a week of use. Very disappointed.",
+      "location": "Germany"
+    },
+    {
+      "id": 19,
+      "productId": 18,
+      "userId": 12,
+      "rating": 4,
+      "title": "Nice product",
+      "date": "18 December 2024",
+      "content": "Looks stylish and works well, but could be cheaper.",
+      "location": "Italy"
+    },
+    {
+      "id": 20,
+      "productId": 19,
+      "userId": 14,
+      "rating": 5,
+      "title": "Superb quality",
+      "date": "21 December 2024",
+      "content": "Really well-made, exceeded my expectations.",
+      "location": "Spain"
+    },
+    {
+      "id": 21,
+      "productId": 20,
+      "userId": 1,
+      "rating": 3,
+      "title": "Average",
+      "date": "24 December 2024",
+      "content": "Nothing special. Just a regular product.",
+      "location": "Mexico"
+    },
+    {
+      "id": 22,
+      "productId": 21,
+      "userId": 3,
+      "rating": 5,
+      "title": "Loved it!",
+      "date": "27 December 2024",
+      "content": "One of the best purchases I've made this year!",
+      "location": "Japan"
+    },
+    {
+      "id": 23,
+      "productId": 22,
+      "userId": 5,
+      "rating": 1,
+      "title": "Horrible experience",
+      "date": "30 December 2024",
+      "content": "Would not recommend this to anyone. Total waste of money.",
+      "location": "South Korea"
+    },
+    {
+      "id": 24,
+      "productId": 23,
+      "userId": 7,
+      "rating": 4,
+      "title": "Solid product",
+      "date": "2 January 2025",
+      "content": "Good build quality and reliable performance.",
+      "location": "United Arab Emirates"
+    },
+    {
+      "id": 25,
+      "productId": 24,
+      "userId": 9,
+      "rating": 5,
+      "title": "Exceeded expectations",
+      "date": "5 January 2025",
+      "content": "This is my second purchase and I love it.",
+      "location": "United States"
+    },
+    {
+      "id": 26,
+      "productId": 25,
+      "userId": 11,
+      "rating": 2,
+      "title": "Not great",
+      "date": "8 January 2025",
+      "content": "Disappointed with the quality.",
+      "location": "Canada"
     },
     {
       "id": 31,
-      "title": "Dollhouse Play Set",
-      "price": 3500,
-      "cat_prefix": "toys",
-      "img": "https://example.com/dollhouse.jpg",
-      "max": 4
+      "productId": 1,
+      "userId": 7,
+      "rating": 4,
+      "title": "Nice but sizing is off",
+      "date": "22 January 2025",
+      "content": "I liked the material, but the sizing runs small. Order one size up!",
+      "location": "United Kingdom",
+      "details": {
+        "size": "M",
+        "color": "Red"
+      }
     },
     {
       "id": 32,
-      "title": "Science Fiction Trilogy Box Set",
-      "price": 2000,
-      "cat_prefix": "books",
-      "img": "https://example.com/scifi-books.jpg",
-      "max": 7
+      "productId": 2,
+      "userId": 12,
+      "rating": 3,
+      "title": "Average quality",
+      "date": "25 January 2025",
+      "content": "It's okay for the price, but I expected better durability.",
+      "location": "France"
     },
     {
       "id": 33,
-      "title": "Children's Illustrated Encyclopedia",
-      "price": 1000,
-      "cat_prefix": "books",
-      "img": "https://example.com/encyclopedia.jpg",
-      "max": 15
+      "productId": 3,
+      "userId": 5,
+      "rating": 5,
+      "title": "Fantastic product",
+      "date": "28 January 2025",
+      "content": "Exceeded my expectations! Will definitely buy again.",
+      "location": "Canada"
     },
     {
       "id": 34,
-      "title": "Organic Honey - 500g",
-      "price": 450,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/honey.jpg",
-      "max": 20
+      "productId": 4,
+      "userId": 9,
+      "rating": 2,
+      "title": "Not as described",
+      "date": "1 February 2025",
+      "content": "The product looks different from the pictures. Disappointed.",
+      "location": "Italy"
     },
     {
       "id": 35,
-      "title": "Pasta - 1kg",
-      "price": 120,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/pasta.jpg",
-      "max": 40
+      "productId": 5,
+      "userId": 3,
+      "rating": 5,
+      "title": "Perfect for daily use",
+      "date": "4 February 2025",
+      "content": "Love using this daily. So practical and stylish!",
+      "location": "United States"
     },
     {
       "id": 36,
-      "title": "Regular Fit football shirt",
-      "price": 449,
-      "cat_prefix": "sport",
-      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
-      "max": 2
+      "productId": 6,
+      "userId": 15,
+      "rating": 4,
+      "title": "Comfortable but pricey",
+      "date": "7 February 2025",
+      "content": "Super comfortable, but I wish it was a bit cheaper.",
+      "location": "Germany"
     },
     {
       "id": 37,
-      "title": "Foldable Study Table",
-      "price": 4000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/study-table.jpg",
-      "max": 7
+      "productId": 7,
+      "userId": 1,
+      "rating": 1,
+      "title": "Terrible experience",
+      "date": "10 February 2025",
+      "content": "Broke within days of use. Waste of money.",
+      "location": "Spain"
     },
     {
       "id": 38,
-      "title": "Mountain Bike",
-      "price": 18000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/mountain-bike.jpg",
-      "max": 2
+      "productId": 8,
+      "userId": 8,
+      "rating": 5,
+      "title": "Must-have item!",
+      "date": "13 February 2025",
+      "content": "This is a game-changer! So happy with my purchase.",
+      "location": "Mexico"
     },
     {
       "id": 39,
-      "title": "Remote Control Car",
-      "price": 2200,
-      "cat_prefix": "toys",
-      "img": "https://example.com/rc-car.jpg",
-      "max": 10
+      "productId": 9,
+      "userId": 11,
+      "rating": 3,
+      "title": "Decent but has flaws",
+      "date": "16 February 2025",
+      "content": "Works well, but some features could be improved.",
+      "location": "South Korea"
     },
     {
       "id": 40,
-      "title": "Meditation Guide Book",
-      "price": 600,
-      "cat_prefix": "books",
-      "img": "https://example.com/meditation-guide.jpg",
-      "max": 25
+      "productId": 10,
+      "userId": 6,
+      "rating": 5,
+      "title": "Absolutely love it!",
+      "date": "19 February 2025",
+      "content": "This is my second purchase and I highly recommend it!",
+      "location": "Japan"
     },
     {
       "id": 41,
-      "title": "Cereal - 500g",
-      "price": 200,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/cereal.jpg",
-      "max": 30
+      "productId": 11,
+      "userId": 14,
+      "rating": 2,
+      "title": "Disappointed",
+      "date": "22 February 2025",
+      "content": "Not worth the money. Wouldn’t buy again.",
+      "location": "United Arab Emirates"
     },
     {
       "id": 42,
-      "title": "Gaming Laptop",
-      "price": 85000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/gaming-laptop.jpg",
-      "max": 3
+      "productId": 12,
+      "userId": 4,
+      "rating": 4,
+      "title": "Great but takes time to get used to",
+      "date": "25 February 2025",
+      "content": "It took a while to break in, but now it’s fantastic.",
+      "location": "France"
     },
     {
       "id": 43,
-      "title": "Noise-Cancelling Headphones",
-      "price": 8000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/noise-headphones.jpg",
-      "max": 10
+      "productId": 13,
+      "userId": 2,
+      "rating": 5,
+      "title": "Totally worth it!",
+      "date": "28 February 2025",
+      "content": "One of the best purchases I’ve made in a long time.",
+      "location": "United States"
     },
     {
       "id": 44,
-      "title": "LED Desk Lamp",
-      "price": 1500,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/desk-lamp.jpg",
-      "max": 15
+      "productId": 14,
+      "userId": 10,
+      "rating": 3,
+      "title": "It's okay, nothing special",
+      "date": "2 March 2025",
+      "content": "Does the job but didn’t impress me much.",
+      "location": "Italy"
     },
     {
       "id": 45,
-      "title": "Luxury Recliner Sofa",
-      "price": 25000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/recliner-sofa.jpg",
-      "max": 1
+      "productId": 15,
+      "userId": 7,
+      "rating": 4,
+      "title": "Pretty good",
+      "date": "5 March 2025",
+      "content": "I like it, but I wish it had more features.",
+      "location": "Germany"
     },
     {
       "id": 46,
-      "title": "Bookshelf - Wooden",
-      "price": 5000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/bookshelf.jpg",
-      "max": 6
+      "productId": 16,
+      "userId": 5,
+      "rating": 5,
+      "title": "My new favorite!",
+      "date": "8 March 2025",
+      "content": "I can’t stop using this. So convenient!",
+      "location": "Canada"
     },
     {
       "id": 47,
-      "title": "Picnic Table Set",
-      "price": 10000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/picnic-table.jpg",
-      "max": 3
+      "productId": 17,
+      "userId": 9,
+      "rating": 1,
+      "title": "Wouldn’t buy again",
+      "date": "11 March 2025",
+      "content": "It stopped working after a week. Avoid!",
+      "location": "United Kingdom"
     },
     {
       "id": 48,
-      "title": "Camping Tent (4-Person)",
-      "price": 7000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/camping-tent.jpg",
-      "max": 5
+      "productId": 18,
+      "userId": 3,
+      "rating": 5,
+      "title": "Love it!",
+      "date": "14 March 2025",
+      "content": "Everything about this product is amazing.",
+      "location": "Spain"
     },
     {
       "id": 49,
-      "title": "Inflatable Kayak",
-      "price": 12000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/inflatable-kayak.jpg",
-      "max": 2
+      "productId": 19,
+      "userId": 12,
+      "rating": 2,
+      "title": "Not worth the hype",
+      "date": "17 March 2025",
+      "content": "I had high expectations, but it didn’t meet them.",
+      "location": "Japan"
     },
     {
       "id": 50,
-      "title": "Plush Teddy Bear (Large)",
-      "price": 1500,
-      "cat_prefix": "toys",
-      "img": "https://example.com/plush-teddy.jpg",
-      "max": 20
+      "productId": 20,
+      "userId": 15,
+      "rating": 4,
+      "title": "Good but not perfect",
+      "date": "20 March 2025",
+      "content": "I’m happy with it, but there are minor issues.",
+      "location": "Mexico"
     },
     {
       "id": 51,
-      "title": "LEGO Technic Set",
-      "price": 5000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/lego-technic.jpg",
-      "max": 8
+      "productId": 9,
+      "userId": 5,
+      "rating": 5,
+      "title": "Best purchase this year!",
+      "date": "15 February 2025",
+      "content": "I absolutely love this product! It’s comfortable, stylish, and well worth the money. Would buy again!",
+      "location": "United States",
+      "details": {
+        "size": "M",
+        "color": "Black"
+      }
     },
     {
       "id": 52,
-      "title": "Children's Puzzle Pack",
-      "price": 1000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/puzzle-pack.jpg",
-      "max": 12
+      "productId": 11,
+      "userId": 7,
+      "rating": 4,
+      "title": "Great quality but slow shipping",
+      "date": "9 March 2025",
+      "content": "The product is well made and fits perfectly. However, shipping took longer than expected, which was a bit frustrating.",
+      "location": "Canada"
     },
     {
       "id": 53,
-      "title": "Cookbook for Beginners",
-      "price": 800,
-      "cat_prefix": "books",
-      "img": "https://example.com/cookbook.jpg",
-      "max": 20
-    },
-    {
-      "id": 54,
-      "title": "Travel Journal",
-      "price": 500,
-      "cat_prefix": "books",
-      "img": "https://example.com/travel-journal.jpg",
-      "max": 30
+      "productId": 14,
+      "userId": 3,
+      "rating": 3,
+      "title": "Not bad, but not amazing",
+      "date": "25 January 2025",
+      "content": "It’s okay for the price, but I was hoping for something a little more durable. Works fine for occasional use.",
+      "location": "United Kingdom",
+      "details": {
+        "size": "L",
+        "color": "White"
+      }
     },
     {
       "id": 55,
-      "title": "Historical Novel - Deluxe Edition",
-      "price": 2500,
-      "cat_prefix": "books",
-      "img": "https://example.com/historical-novel.jpg",
-      "max": 10
-    },
-    {
-      "id": 56,
-      "title": "Artisanal Cheese Pack",
-      "price": 1800,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/cheese-pack.jpg",
-      "max": 8
-    },
-    {
-      "id": 57,
-      "title": "Freshly Baked Bread - 1kg",
-      "price": 300,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/fresh-bread.jpg",
-      "max": 25
-    },
-    {
-      "id": 58,
-      "title": "Gourmet Coffee Beans - 500g",
-      "price": 800,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/coffee-beans.jpg",
-      "max": 15
-    },
-    {
-      "id": 59,
-      "title": "Wireless Keyboard & Mouse Combo",
-      "price": 3000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/keyboard-mouse.jpg",
-      "max": 12
-    },
-    {
-      "id": 60,
-      "title": "Standing Desk Converter",
-      "price": 7000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/standing-desk.jpg",
-      "max": 4
-    },
-    {
-      "id": 61,
-      "title": "Outdoor Hammock",
-      "price": 3500,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/hammock.jpg",
-      "max": 7
-    },
-    {
-      "id": 62,
-      "title": "Smartwatch with Fitness Tracker",
-      "price": 12000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/smartwatch.jpg",
-      "max": 10
-    },
-    {
-      "id": 63,
-      "title": "Portable Power Bank (20,000mAh)",
-      "price": 2500,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/power-bank.jpg",
-      "max": 20
-    },
-    {
-      "id": 64,
-      "title": "HD Home Projector",
-      "price": 20000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/home-projector.jpg",
-      "max": 5
-    },
-    {
-      "id": 65,
-      "title": "Ergonomic Office Chair",
-      "price": 15000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/office-chair.jpg",
-      "max": 3
-    },
-    {
-      "id": 66,
-      "title": "Dining Table Set (6 Chairs)",
-      "price": 30000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/dining-table.jpg",
-      "max": 2
-    },
-    {
-      "id": 67,
-      "title": "Modular Sofa (3-Seater)",
-      "price": 40000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/modular-sofa.jpg",
-      "max": 3
-    },
-    {
-      "id": 68,
-      "title": "Barbecue Grill",
-      "price": 10000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/barbecue-grill.jpg",
-      "max": 6
-    },
-    {
-      "id": 69,
-      "title": "Mountain Bike",
-      "price": 25000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/mountain-bike.jpg",
-      "max": 3
-    },
-    {
-      "id": 70,
-      "title": "Outdoor Fire Pit",
-      "price": 15000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/outdoor-fire-pit.jpg",
-      "max": 5
-    },
-    {
-      "id": 71,
-      "title": "RC Drone with Camera",
-      "price": 18000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/rc-drone.jpg",
-      "max": 7
-    },
-    {
-      "id": 72,
-      "title": "Board Game - Strategy Edition",
-      "price": 2000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/board-game.jpg",
-      "max": 15
-    },
-    {
-      "id": 73,
-      "title": "Kids' Art Supplies Kit",
-      "price": 1200,
-      "cat_prefix": "toys",
-      "img": "https://example.com/art-supplies.jpg",
-      "max": 20
-    },
-    {
-      "id": 74,
-      "title": "Fantasy Novel Box Set",
-      "price": 3500,
-      "cat_prefix": "books",
-      "img": "https://example.com/fantasy-box-set.jpg",
-      "max": 10
-    },
-    {
-      "id": 75,
-      "title": "DIY Craft Book",
-      "price": 600,
-      "cat_prefix": "books",
-      "img": "https://example.com/craft-book.jpg",
-      "max": 25
-    },
-    {
-      "id": 76,
-      "title": "Photography Guidebook",
-      "price": 1200,
-      "cat_prefix": "books",
-      "img": "https://example.com/photography-guide.jpg",
-      "max": 15
-    },
-    {
-      "id": 77,
-      "title": "Organic Fruit Basket",
-      "price": 2500,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/fruit-basket.jpg",
-      "max": 10
-    },
-    {
-      "id": 78,
-      "title": "Imported Olive Oil - 1L",
-      "price": 1500,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/olive-oil.jpg",
-      "max": 20
-    },
-    {
-      "id": 79,
-      "title": "Dark Chocolate Gift Box",
-      "price": 800,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/chocolate-box.jpg",
-      "max": 30
-    },
-    {
-      "id": 80,
-      "title": "Mechanical Gaming Keyboard",
-      "price": 6000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/gaming-keyboard.jpg",
-      "max": 12
-    },
-    {
-      "id": 81,
-      "title": "Dual Monitor Stand",
-      "price": 5000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/monitor-stand.jpg",
-      "max": 8
-    },
-    {
-      "id": 82,
-      "title": "Noise-Cancelling Earbuds",
-      "price": 5000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/earbuds.jpg",
-      "max": 15
-    },
-    {
-      "id": 83,
-      "title": "Bookshelf Speaker System",
-      "price": 15000,
-      "cat_prefix": "electronics",
-      "img": "https://example.com/speakers.jpg",
-      "max": 5
-    },
-    {
-      "id": 84,
-      "title": "Electric Standing Desk",
-      "price": 25000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/standing-desk.jpg",
-      "max": 4
-    },
-    {
-      "id": 85,
-      "title": "Leather Accent Chair",
-      "price": 18000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/accent-chair.jpg",
-      "max": 3
-    },
-    {
-      "id": 86,
-      "title": "Outdoor Swing Chair",
-      "price": 20000,
-      "cat_prefix": "furniture",
-      "img": "https://example.com/swing-chair.jpg",
-      "max": 5
-    },
-    {
-      "id": 87,
-      "title": "Hiking Backpack",
-      "price": 8000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/hiking-backpack.jpg",
-      "max": 10
-    },
-    {
-      "id": 88,
-      "title": "Portable Cooler",
-      "price": 7000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/portable-cooler.jpg",
-      "max": 8
-    },
-    {
-      "id": 89,
-      "title": "Solar Lantern",
-      "price": 3000,
-      "cat_prefix": "outdoors",
-      "img": "https://example.com/solar-lantern.jpg",
-      "max": 15
-    },
-    {
-      "id": 90,
-      "title": "Building Blocks Set",
-      "price": 2500,
-      "cat_prefix": "toys",
-      "img": "https://example.com/building-blocks.jpg",
-      "max": 12
-    },
-    {
-      "id": 91,
-      "title": "Stuffed Animal Collection",
-      "price": 2000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/stuffed-animals.jpg",
-      "max": 20
-    },
-    {
-      "id": 92,
-      "title": "Remote-Controlled Car",
-      "price": 3500,
-      "cat_prefix": "toys",
-      "img": "https://example.com/rc-car.jpg",
-      "max": 10
-    },
-    {
-      "id": 93,
-      "title": "Science Experiment Kit",
-      "price": 3000,
-      "cat_prefix": "toys",
-      "img": "https://example.com/science-kit.jpg",
-      "max": 10
-    },
-    {
-      "id": 94,
-      "title": "Classic Literature Collection",
-      "price": 5000,
-      "cat_prefix": "books",
-      "img": "https://example.com/literature-collection.jpg",
-      "max": 7
-    },
-    {
-      "id": 95,
-      "title": "Travel Photography Book",
-      "price": 1200,
-      "cat_prefix": "books",
-      "img": "https://example.com/travel-book.jpg",
-      "max": 20
-    },
-    {
-      "id": 96,
-      "title": "Vegan Recipe Book",
-      "price": 1500,
-      "cat_prefix": "books",
-      "img": "https://example.com/vegan-recipe-book.jpg",
-      "max": 15
-    },
-    {
-      "id": 97,
-      "title": "Fresh Herb Collection",
-      "price": 1200,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/herb-collection.jpg",
-      "max": 30
-    },
-    {
-      "id": 98,
-      "title": "Specialty Tea Sampler",
-      "price": 1800,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/tea-sampler.jpg",
-      "max": 25
-    },
-    {
-      "id": 99,
-      "title": "Premium Baking Ingredients",
-      "price": 2000,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/baking-ingredients.jpg",
-      "max": 15
-    },
-    {
-      "id": 100,
-      "title": "Gourmet Snack Box",
-      "price": 3000,
-      "cat_prefix": "groceries",
-      "img": "https://example.com/snack-box.jpg",
-      "max": 10
-    }
-  ],
-  "wishlist": [
-    {
-      "userId": 1,
-      "productId": 9,
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "productId": 5,
-      "id": 2
-    }
-  ],
-  "orders": [
-    {
-      "subtotal": 2285,
-      "items": [
-        {
-          "id": 1,
-          "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-          "title": "Jersey top",
-          "price": 249,
-          "quantity": 2
-        },
-        {
-          "id": 2,
-          "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-          "title": "Regular Fit Jersey top",
-          "price": 229,
-          "quantity": 3
-        },
-        {
-          "id": 4,
-          "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
-          "title": "Cotton t-shirt",
-          "price": 100,
-          "quantity": 2
-        },
-        {
-          "id": 5,
-          "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-          "title": "Sweatshirt shorts",
-          "price": 300,
-          "quantity": 3
-        }
-      ],
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "subtotal": 800,
-      "items": [
-        {
-          "id": 5,
-          "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-          "title": "Sweatshirt shorts",
-          "price": 300,
-          "quantity": 1
-        },
-        {
-          "id": 9,
-          "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
-          "title": "Pile all-in-one suit with ears",
-          "price": 500,
-          "quantity": 1
-        }
-      ],
-      "userId": 1,
-      "id": 3
+      "productId": 25,
+      "userId": 6,
+      "rating": 5,
+      "title": "Perfect fit!",
+      "date": "12 May 2025",
+      "content": "I was worried about the sizing, but it turned out to be perfect! Comfortable, stylish, and highly recommended.",
+      "location": "France",
+      "details": {
+        "size": "S",
+        "color": "Blue"
+      }
     }
   ]
 }
