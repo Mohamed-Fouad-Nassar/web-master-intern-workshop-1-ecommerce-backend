@@ -5,7 +5,7 @@
       "lastName": "one",
       "firstName": "user",
       "email": "user1@gmail.com",
-      "avatar": "./data/users/user-avatar-1.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-1.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -13,7 +13,7 @@
       "lastName": "two",
       "firstName": "user",
       "email": "user2@gmail.com",
-      "avatar": "./data/users/user-avatar-2.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-2.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -21,7 +21,7 @@
       "lastName": "three",
       "firstName": "user",
       "email": "user3@gmail.com",
-      "avatar": "./data/users/user-avatar-3.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-3.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -29,7 +29,7 @@
       "lastName": "four",
       "firstName": "user",
       "email": "user4@gmail.com",
-      "avatar": "./data/users/user-avatar-4.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-4.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -37,7 +37,7 @@
       "lastName": "five",
       "firstName": "user",
       "email": "user5@gmail.com",
-      "avatar": "./data/users/user-avatar-1.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-1.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -45,7 +45,7 @@
       "lastName": "six",
       "firstName": "user",
       "email": "user6@gmail.com",
-      "avatar": "./data/users/user-avatar-2.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-2.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -53,7 +53,7 @@
       "lastName": "seven",
       "firstName": "user",
       "email": "user7@gmail.com",
-      "avatar": "./data/users/user-avatar-3.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-3.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -61,7 +61,7 @@
       "lastName": "eight",
       "firstName": "user",
       "email": "user8@gmail.com",
-      "avatar": "./data/users/user-avatar-4.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-4.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -69,7 +69,7 @@
       "lastName": "nine",
       "firstName": "user",
       "email": "user9@gmail.com",
-      "avatar": "./data/users/user-avatar-1.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-1.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -77,7 +77,7 @@
       "lastName": "ten",
       "firstName": "user",
       "email": "user10@gmail.com",
-      "avatar": "./data/users/user-avatar-2.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-2.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -85,7 +85,7 @@
       "lastName": "eleven",
       "firstName": "user",
       "email": "user11@gmail.com",
-      "avatar": "./data/users/user-avatar-3.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-3.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -93,7 +93,7 @@
       "lastName": "twelve",
       "firstName": "user",
       "email": "user12@gmail.com",
-      "avatar": "./data/users/user-avatar-4.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-4.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -101,7 +101,7 @@
       "lastName": "thirteen",
       "firstName": "user",
       "email": "user13@gmail.com",
-      "avatar": "./data/users/user-avatar-1.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-1.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -109,7 +109,7 @@
       "lastName": "fourteen",
       "firstName": "user",
       "email": "user14@gmail.com",
-      "avatar": "./data/users/user-avatar-2.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-2.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -117,7 +117,7 @@
       "lastName": "fifteen",
       "firstName": "user",
       "email": "user15@gmail.com",
-      "avatar": "./data/users/user-avatar-3.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-3.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     },
     {
@@ -125,7 +125,7 @@
       "lastName": "sixteen",
       "firstName": "user",
       "email": "user16@gmail.com",
-      "avatar": "./data/users/user-avatar-4.png",
+      "avatar": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/users/user-avatar-4.png",
       "password": "$2a$10$MbNbATUFQjUZQPCVJEIeE.a3WF4GIbSdg.M6yDwZnokUCY9..6kLm"
     }
   ],
@@ -141,11 +141,11 @@
         "stars": { "5": 60, "4": 30, "3": 10, "2": 5, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-1.png",
-        "./data/products/product-img-2.png",
-        "./data/products/product-img-3.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-1.png",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-2.png",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-3.jpg"
       ],
-      "img": "./data/products/product-img-1.png",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-1.png",
       "description": "Feature: square neck, cutout, puff sleeve, ruffle hem, tie back aline dress \n Fabric has some stretch,and it's soft and comfortable \n Suitable for daily wear, holidays, dating, vacation, weekend casual \n Care Instructions: Machine wash or professional dry clean"
     },
     {
@@ -159,11 +159,11 @@
         "stars": { "5": 90, "4": 40, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-4.png",
-        "./data/products/product-img-5.webp",
-        "./data/products/product-img-6.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-4.png",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-5.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-6.jpg"
       ],
-      "img": "./data/products/product-img-4.png",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-4.png",
       "description": "Smart inverter motor, low noise operation, eco bubble technology for better cleaning. \n Suitable for family use, durable, and energy efficient. \n Care Instructions: Wipe clean with a damp cloth."
     },
     {
@@ -177,11 +177,11 @@
         "stars": { "5": 280, "4": 30, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-7.jpg",
-        "./data/products/product-img-8.jpeg",
-        "./data/products/product-img-9.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-7.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-8.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-9.jpeg"
       ],
-      "img": "./data/products/product-img-9.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-9.jpeg",
       "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP main camera, 5G capability. \n Ceramic Shield, tougher than any smartphone glass. \n Care Instructions: Keep away from water and extreme temperatures."
     },
     {
@@ -195,10 +195,10 @@
         "stars": { "5": 140, "4": 40, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-10.webp",
-        "./data/products/product-img-11.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-10.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-11.jpg"
       ],
-      "img": "./data/products/product-img-10.webp",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-10.webp",
       "description": "4K HDR Processor X1, TRILUMINOS Display, Android TV with Google Assistant. \n Amazing picture clarity and immersive sound experience. \n Care Instructions: Clean screen with a microfiber cloth."
     },
     {
@@ -212,11 +212,11 @@
         "stars": { "5": 130, "4": 35, "3": 10, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-13.jpeg",
-        "./data/products/product-img-14.webp",
-        "./data/products/product-img-15.webp"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-13.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-14.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-15.webp"
       ],
-      "img": "./data/products/product-img-15.webp",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-15.webp",
       "description": "Lightweight and breathable mesh upper, responsive cushioning, durable rubber outsole. \n Perfect for long runs, gym, and casual wear. \n Care Instructions: Hand wash with mild soap and air dry."
     },
     {
@@ -230,11 +230,11 @@
         "stars": { "5": 180, "4": 50, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-16.jpeg",
-        "./data/products/product-img-17.jpg",
-        "./data/products/product-img-18.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-16.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-17.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-18.jpeg"
       ],
-      "img": "./data/products/product-img-16.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-16.jpeg",
       "description": "12th Gen Intel Core i7 processor, NVIDIA RTX 3050, 16-inch 4K OLED display. \n Perfect for content creators and professionals. \n Care Instructions: Keep in a cool, dry place and avoid liquid spills."
     },
     {
@@ -248,10 +248,10 @@
         "stars": { "5": 120, "4": 40, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-19.webp",
-        "./data/products/product-img-20.avif"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-19.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-20.avif"
       ],
-      "img": "./data/products/product-img-20.avif",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-20.avif",
       "description": "Advanced health monitoring, Always-on Retina display, fast charging. \n Stay connected with messages, calls, and notifications. \n Care Instructions: Avoid exposure to extreme heat and water."
     },
     {
@@ -265,11 +265,11 @@
         "stars": { "5": 250, "4": 30, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-22.jpeg",
-        "./data/products/product-img-23.jpg",
-        "./data/products/product-img-24.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-22.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-23.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-24.jpg"
       ],
-      "img": "./data/products/product-img-22.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-22.jpeg",
       "description": "Industry-leading noise cancellation, up to 30 hours of battery life, multipoint connectivity. \n Perfect for travel, work, and everyday use. \n Care Instructions: Store in the provided case when not in use."
     },
     {
@@ -283,10 +283,10 @@
         "stars": { "5": 160, "4": 40, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-25.jpg",
-        "./data/products/product-img-26.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-25.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-26.jpg"
       ],
-      "img": "./data/products/product-img-25.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-25.jpg",
       "description": "Quantum Dot Technology for true colors, AI-powered 4K upscaling, Smart TV features. \n Enjoy high-quality visuals and immersive sound. \n Care Instructions: Wipe screen with a dry microfiber cloth."
     },
     {
@@ -300,11 +300,11 @@
         "stars": { "5": 200, "4": 50, "3": 20, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-28.avif",
-        "./data/products/product-img-29.avif",
-        "./data/products/product-img-30.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-28.avif",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-29.avif",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-30.jpeg"
       ],
-      "img": "./data/products/product-img-30.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-30.jpeg",
       "description": "Boost cushioning for ultimate comfort, Primeknit upper, lightweight design. \n Ideal for running, gym workouts, and daily activities. \n Care Instructions: Hand wash with mild detergent and air dry."
     },
     {
@@ -318,11 +318,11 @@
         "stars": { "5": 290, "4": 40, "3": 7, "2": 2, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-31.jpg",
-        "./data/products/product-img-32.jpg",
-        "./data/products/product-img-33.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-31.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-32.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-33.jpg"
       ],
-      "img": "./data/products/product-img-32.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-32.jpg",
       "description": "M2 chip with 8-core CPU and 8-core GPU, 13.6-inch Liquid Retina display, all-day battery life. \n Ideal for students, professionals, and creatives."
     },
     {
@@ -336,11 +336,11 @@
         "stars": { "5": 420, "4": 60, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-34.jpg",
-        "./data/products/product-img-35.jpg",
-        "./data/products/product-img-36.png"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-34.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-35.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-36.png"
       ],
-      "img": "./data/products/product-img-36.png",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-36.png",
       "description": "200MP camera, Snapdragon 8 Gen 2, S Pen included, Dynamic AMOLED 2X display. \n The best Android flagship smartphone."
     },
     {
@@ -354,11 +354,11 @@
         "stars": { "5": 350, "4": 50, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-37.jpeg",
-        "./data/products/product-img-38.jpeg",
-        "./data/products/product-img-39.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-37.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-38.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-39.jpeg"
       ],
-      "img": "./data/products/product-img-39.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-39.jpeg",
       "description": "Legendary noise cancellation, 24-hour battery life, lightweight comfort. \n Ideal for travelers, remote workers, and audiophiles."
     },
     {
@@ -372,11 +372,11 @@
         "stars": { "5": 720, "4": 60, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-40.jpg",
-        "./data/products/product-img-41.webp",
-        "./data/products/product-img-42.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-40.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-41.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-42.jpeg"
       ],
-      "img": "./data/products/product-img-41.webp",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-41.webp",
       "description": "Ultra-fast SSD, ray tracing, 4K gaming at 120Hz, DualSense controller. \n The next-generation gaming experience."
     },
     {
@@ -390,11 +390,11 @@
         "stars": { "5": 220, "4": 50, "3": 20, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-43.jpg",
-        "./data/products/product-img-44.jpeg",
-        "./data/products/product-img-45.avif"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-43.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-44.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-45.avif"
       ],
-      "img": "./data/products/product-img-43.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-43.jpg",
       "description": "5.3K60 video, HyperSmooth stabilization, waterproof up to 10m. \n Perfect for adventure seekers and vloggers."
     },
     {
@@ -408,10 +408,10 @@
         "stars": { "5": 150, "4": 35, "3": 10, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-25.jpg",
-        "./data/products/product-img-26.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-25.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-26.jpg"
       ],
-      "img": "./data/products/product-img-25.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-25.jpg",
       "description": "Quantum HDR, 120Hz refresh rate, built-in Alexa and Google Assistant. \n Best for immersive home entertainment."
     },
     {
@@ -425,10 +425,10 @@
         "stars": { "5": 130, "4": 40, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-49.jpeg",
-        "./data/products/product-img-50.png"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-49.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-50.png"
       ],
-      "img": "./data/products/product-img-50.png",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-50.png",
       "description": "Laser dust detection, high torque cleaner head, up to 60 minutes runtime. \n Ideal for deep home cleaning."
     },
     {
@@ -442,10 +442,10 @@
         "stars": { "5": 210, "4": 30, "3": 7, "2": 2, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-19.webp",
-        "./data/products/product-img-20.avif"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-19.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-20.avif"
       ],
-      "img": "./data/products/product-img-20.avif",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-20.avif",
       "description": "Solar-powered, GPS, heart rate monitoring, music storage. \n Designed for athletes and adventurers."
     },
     {
@@ -459,11 +459,11 @@
         "stars": { "5": 290, "4": 50, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-55.jpeg",
-        "./data/products/product-img-56.jpg",
-        "./data/products/product-img-57.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-55.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-56.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-57.jpg"
       ],
-      "img": "./data/products/product-img-55.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-55.jpeg",
       "description": "M1 chip, Liquid Retina display, Apple Pencil support. \n Perfect for students, professionals, and creatives."
     },
     {
@@ -477,11 +477,11 @@
         "stars": { "5": 150, "4": 25, "3": 3, "2": 1, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-58.avif",
-        "./data/products/product-img-59.webp",
-        "./data/products/product-img-60.webp"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-58.avif",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-59.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-60.webp"
       ],
-      "img": "./data/products/product-img-60.webp",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-60.webp",
       "description": "33MP sensor, 4K 60p video, real-time Eye AF, professional features. \n Ideal for photographers and videographers."
     },
     {
@@ -495,11 +495,11 @@
         "stars": { "5": 180, "4": 30, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-61.jpg",
-        "./data/products/product-img-62.jpg",
-        "./data/products/product-img-63.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-61.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-62.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-63.jpg"
       ],
-      "img": "./data/products/product-img-61.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-61.jpg",
       "description": "4K HDR video, 34-minute flight time, obstacle sensing, ultra-lightweight. \n Great for travel and aerial photography."
     },
     {
@@ -513,10 +513,10 @@
         "stars": { "5": 110, "4": 30, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-64.jpg",
-        "./data/products/product-img-65.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-64.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-65.jpeg"
       ],
-      "img": "./data/products/product-img-64.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-64.jpg",
       "description": "Razer Green switches, RGB lighting, wrist rest, programmable macros. \n Best for hardcore gamers."
     },
     {
@@ -530,11 +530,11 @@
         "stars": { "5": 270, "4": 40, "3": 5, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-34.jpg",
-        "./data/products/product-img-35.jpg",
-        "./data/products/product-img-36.png"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-34.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-35.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-36.png"
       ],
-      "img": "./data/products/product-img-35.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-35.jpg",
       "description": "6.8-inch Dynamic AMOLED 2X, 200MP camera, S-Pen, Snapdragon 8 Gen 2. \n The ultimate flagship smartphone."
     },
     {
@@ -548,11 +548,11 @@
         "stars": { "5": 390, "4": 40, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-40.jpg",
-        "./data/products/product-img-41.webp",
-        "./data/products/product-img-42.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-40.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-41.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-42.jpeg"
       ],
-      "img": "./data/products/product-img-42.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-42.jpeg",
       "description": "Ultra-high-speed SSD, ray tracing, 4K gaming at up to 120fps. \n A new era of gaming begins."
     },
     {
@@ -566,11 +566,11 @@
         "stars": { "5": 230, "4": 50, "3": 15, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-37.jpeg",
-        "./data/products/product-img-38.jpeg",
-        "./data/products/product-img-39.jpeg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-37.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-38.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-39.jpeg"
       ],
-      "img": "./data/products/product-img-37.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-37.jpeg",
       "description": "Noise cancellation, 24-hour battery life, Bluetooth 5.1, crystal-clear audio. \n Perfect for travel and work."
     },
     {
@@ -584,11 +584,11 @@
         "stars": { "5": 140, "4": 35, "3": 10, "2": 3, "1": 2 }
       },
       "images": [
-        "./data/products/product-img-13.jpeg",
-        "./data/products/product-img-14.webp",
-        "./data/products/product-img-15.webp"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-13.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-14.webp",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-15.webp"
       ],
-      "img": "./data/products/product-img-13.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-13.jpeg",
       "description": "Responsive cushioning, breathable upper, durable outsole. \n Designed for everyday runners."
     },
     {
@@ -602,11 +602,11 @@
         "stars": { "5": 160, "4": 15, "3": 3, "2": 1, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-31.jpg",
-        "./data/products/product-img-32.jpg",
-        "./data/products/product-img-33.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-31.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-32.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-33.jpg"
       ],
-      "img": "./data/products/product-img-31.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-31.jpg",
       "description": "Apple M2 Max chip, Liquid Retina XDR display, 22-hour battery life. \n Built for professionals and creatives."
     },
     {
@@ -620,11 +620,11 @@
         "stars": { "5": 200, "4": 40, "3": 7, "2": 2, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-43.jpg",
-        "./data/products/product-img-44.jpeg",
-        "./data/products/product-img-45.avif"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-43.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-44.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-45.avif"
       ],
-      "img": "./data/products/product-img-44.jpeg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-44.jpeg",
       "description": "5.3K60 video, 27MP photos, waterproof, HyperSmooth 5.0. \n Best for adventure and vlogging."
     },
     {
@@ -638,11 +638,11 @@
         "stars": { "5": 210, "4": 50, "3": 10, "2": 5, "1": 5 }
       },
       "images": [
-        "./data/products/product-img-85.jpeg",
-        "./data/products/product-img-86.jpeg",
-        "./data/products/product-img-87.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-85.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-86.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-87.jpg"
       ],
-      "img": "./data/products/product-img-87.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-87.jpg",
       "description": "Powerful sound, 12-hour battery life, IP67 waterproof. \n Great for outdoor music lovers."
     },
     {
@@ -656,11 +656,11 @@
         "stars": { "5": 150, "4": 30, "3": 7, "2": 2, "1": 1 }
       },
       "images": [
-        "./data/products/product-img-88.jpeg",
-        "./data/products/product-img-89.jpg",
-        "./data/products/product-img-90.jpg"
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-88.jpeg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-89.jpg",
+        "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-90.jpg"
       ],
-      "img": "./data/products/product-img-90.jpg",
+      "img": "https://web-master-intern-workshop-1-ecommerce-backend.vercel.app/data/products/product-img-90.jpg",
       "description": "AMOLED display, advanced health tracking, LTE connectivity. \n The ultimate smartwatch for fitness and productivity."
     }
   ],
