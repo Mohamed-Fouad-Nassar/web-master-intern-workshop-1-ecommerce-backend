@@ -135,6 +135,7 @@
       "sellerId": 3,
       "title": "Apple iPhone 14 Pro Max (256GB, Space Black) - 5G",
       "price": 1099.99,
+      "discount": 46,
       "rating": {
         "rate": 4.8,
         "count": 320,
@@ -153,6 +154,7 @@
       "sellerId": 4,
       "title": "Sony Bravia 55 Inch 4K Ultra HD Smart LED TV",
       "price": 649.99,
+      "discount": 30,
       "rating": {
         "rate": 4.6,
         "count": 200,
@@ -170,6 +172,7 @@
       "sellerId": 5,
       "title": "Nike Air Zoom Pegasus 39 Running Shoes",
       "price": 129.99,
+      "discount": 21,
       "rating": {
         "rate": 4.7,
         "count": 180,
@@ -188,6 +191,7 @@
       "sellerId": 2,
       "title": "Dell XPS 15 9520 Laptop, 12th Gen Intel i7, 16GB RAM, 512GB SSD",
       "price": 1399.99,
+      "discount": 26,
       "rating": {
         "rate": 4.7,
         "count": 250,
@@ -206,6 +210,7 @@
       "sellerId": 4,
       "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
       "price": 349.99,
+      "discount": 20,
       "rating": {
         "rate": 4.8,
         "count": 300,
@@ -224,6 +229,7 @@
       "sellerId": 5,
       "title": "Samsung 65 Inch QLED 4K Smart TV with Quantum HDR",
       "price": 999.99,
+      "discount": 21,
       "rating": {
         "rate": 4.7,
         "count": 220,
@@ -241,6 +247,7 @@
       "sellerId": 1,
       "title": "Adidas Ultraboost 22 Running Shoes",
       "price": 159.99,
+      "discount": 34,
       "rating": {
         "rate": 4.8,
         "count": 280,
@@ -259,6 +266,7 @@
       "sellerId": 2,
       "title": "Apple MacBook Air M2, 13-inch, 8GB RAM, 256GB SSD",
       "price": 1099.99,
+      "discount": 27,
       "rating": {
         "rate": 4.9,
         "count": 340,
@@ -277,6 +285,7 @@
       "sellerId": 3,
       "title": "Samsung Galaxy S23 Ultra 5G, 256GB, Phantom Black",
       "price": 1199.99,
+      "discount": 46,
       "rating": {
         "rate": 4.8,
         "count": 500,
@@ -295,6 +304,7 @@
       "sellerId": 4,
       "title": "Bose QuietComfort 45 Wireless Noise Cancelling Headphones",
       "price": 329.99,
+      "discount": 30,
       "rating": {
         "rate": 4.7,
         "count": 420,
@@ -313,6 +323,7 @@
       "sellerId": 5,
       "title": "Sony PlayStation 5 Console – Disc Edition",
       "price": 499.99,
+      "discount": 21,
       "rating": {
         "rate": 4.9,
         "count": 800,
@@ -331,6 +342,7 @@
       "sellerId": 1,
       "title": "GoPro HERO11 Black Action Camera",
       "price": 399.99,
+      "discount": 26,
       "rating": {
         "rate": 4.6,
         "count": 300,
