@@ -134,7 +134,7 @@
       "id": 1,
       "sellerId": 1,
       "title": "LG 7 Kg, 5 Star, Direct Drive Technology, Steam Wash, 6 Motion DD, Smart Diagnosis, Fully-Automatic Front Load",
-      "price": 203.14,
+      "price": 7000.14,
       "discount": 0,
       "rating": {
         "rate": 4.3,
@@ -153,7 +153,7 @@
       "id": 2,
       "sellerId": 2,
       "title": "Samsung 8 Kg, 5 Star, Inverter Fully-Automatic Front Load Washing Machine",
-      "price": 249.99,
+      "price": 5999.99,
       "discount": 10,
       "rating": {
         "rate": 4.5,
@@ -191,7 +191,7 @@
       "id": 4,
       "sellerId": 4,
       "title": "Sony Bravia 55 Inch 4K Ultra HD Smart LED TV",
-      "price": 649.99,
+      "price": 14999.99,
       "discount": 4,
       "rating": {
         "rate": 4.6,
@@ -228,7 +228,7 @@
       "id": 6,
       "sellerId": 2,
       "title": "Dell XPS 15 9520 Laptop, 12th Gen Intel i7, 16GB RAM, 512GB SSD",
-      "price": 1399.99,
+      "price": 21000,
       "discount": 200,
       "rating": {
         "rate": 4.7,
@@ -284,7 +284,7 @@
       "id": 9,
       "sellerId": 5,
       "title": "Samsung 65 Inch QLED 4K Smart TV with Quantum HDR",
-      "price": 999.99,
+      "price": 26999.99,
       "discount": 100,
       "rating": {
         "rate": 4.7,
@@ -321,7 +321,7 @@
       "id": 11,
       "sellerId": 2,
       "title": "Apple MacBook Air M2, 13-inch, 8GB RAM, 256GB SSD",
-      "price": 1099.99,
+      "price": 8000,
       "discount": 67,
       "rating": {
         "rate": 4.9,
@@ -415,7 +415,7 @@
       "id": 16,
       "sellerId": 3,
       "title": "Samsung 55-inch 4K QLED Smart TV",
-      "price": 699.99,
+      "price": 14000,
       "discount": 0,
       "rating": {
         "rate": 4.8,
@@ -488,7 +488,7 @@
       "id": 20,
       "sellerId": 1,
       "title": "Sony Alpha 7 IV Full-Frame Mirrorless Camera",
-      "price": 2499.99,
+      "price": 32999.99,
       "discount": 400,
       "rating": {
         "rate": 4.9,
